@@ -1,0 +1,1 @@
+minetest.register_alias('mapgen_stone', 'ol_natural:phyllite')
