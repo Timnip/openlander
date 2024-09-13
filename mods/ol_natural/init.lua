@@ -1,6 +1,6 @@
-minetest.register_node('ol_natural:phyllite', {
-    description = 'Phyllite',
-    tiles = { 'ol_natural_phyllite.png' },
+minetest.register_node('ol_natural:stone', {
+    description = 'Stone',
+    tiles = { 'ol_natural_stone.png' },
     groups = { cracky = 1 },
     is_ground_content = true
 })

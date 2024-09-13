@@ -1,1 +1,1 @@
-minetest.register_alias('mapgen_stone', 'ol_natural:phyllite')
+minetest.register_alias('mapgen_stone', 'ol_natural:stone')
